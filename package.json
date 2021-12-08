@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "commander": "^2.19.0",
-    "css-to-react-native-transform": "^1.7.0"
+    "css-to-react-native-transform": "^2.0.0"
   },
   "repository": {
     "type": "git",
